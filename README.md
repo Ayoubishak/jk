@@ -1,1 +1,2 @@
-# ef6-sqlite
+### Using Entity Framework 6 with Database-First approach for SQLite Database in Visual Studio 2019
+This is a sample source code for blog post __Using Entity Framework 6 with Database-First approach for SQLite Database in Visual Studio 2019__, see details [here](https://nghianguyen09.github.io/2021/06/10/using-entity-framework-6-with-database-first-approach-for-sqlite-database-in-visual-studio-2019.html)
